@@ -17,5 +17,5 @@ Optional, you don't have to mention this part when you are running out of time.
 1. It will synchronized the data (photo, date of the photo taken, etc.) automatically from Calorie Smile's web service.  
 ![Data synching](img/Sync_data.PNG)  
 
-1. Viola!!! Every thing you had on Calorie Smile's web service is now available directly in your PDS cell.  
+1. Voila!!! Every thing you had on Calorie Smile's web service is now available directly in your PDS cell.  
 ![Food diaries](img/FoodDiary_Photos.PNG)  
