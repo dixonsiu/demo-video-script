@@ -1,4 +1,6 @@
 # Scenario 1 - How to synchronize scattered data  
+[Video](https://www.youtube.com/watch?v=gv0p2jfn2kw) on YouTube.  
+
 ## Prerequisites for this scenario  
 Optional, you don't have to mention this part when you are running out of time.    
 
